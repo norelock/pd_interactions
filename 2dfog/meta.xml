@@ -1,0 +1,11 @@
+<meta>
+	<download_priority_group>100</download_priority_group>
+	<oop>true</oop>
+	<script src="core.lua" type="client" />
+	<script src="fog.lua" type="client" />
+	<script src="libs/classlib.lua" type="shared" cache="false" />
+	<file src="textures/pfx_smoke_b.dds" type="client" />
+	<export function="render" type="client" />
+	<export function="reload" type="client" />
+	<export function="color" type="client" />
+</meta>
