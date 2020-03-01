@@ -1,0 +1,28 @@
+<meta>
+    <!-- client -->
+    <script src="client/_anim.lua" type="client" />
+    <script src="client/g_actions.lua" type="client" />
+    <script src="client/main.lua" type="client" />
+
+    <!-- server -->
+    <script src="server/main.lua" type="server" />
+
+    <!-- assets -->
+    <file src="assets/images/background.png" />
+    <file src="assets/images/car_belt.png" />
+    <file src="assets/images/circle_background.png" />
+    <file src="assets/images/engine.png" />
+    <file src="assets/images/handbrake.png" />
+    <file src="assets/images/lights.png" />
+    <file src="assets/images/lock.png" />
+    <file src="assets/images/passanger_out.png" />
+    <file src="assets/images/pointer.png" />
+    <file src="assets/images/pointer_light.png" />
+    <file src="assets/images/vignette.png" />
+
+    <file src="assets/sounds/engine.mp3" />
+    <file src="assets/sounds/engine_fail.mp3" />
+    <file src="assets/sounds/handbrake.mp3" />
+    <file src="assets/sounds/interaction.mp3" />
+    <file src="assets/sounds/lights.mp3" />
+</meta>

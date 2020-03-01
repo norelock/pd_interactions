@@ -1,0 +1,24 @@
+<meta>
+    <min_mta_version client="1.3.0-9.04431" />
+
+    <!-- server -->
+    <script src="server/interaction.lua" type="server" />
+
+    <!-- client -->
+    <script src="client/_anim.lua" type="client" />
+    <script src="client/g_interactions.lua" type="client" />
+    <script src="client/interaction.lua" type="client" />
+
+    <!-- assets -->
+    <file src="assets/fx/ped_wall.fx" type="client" />
+    <file src="assets/fx/ped_wall_mrt.fx" type="client" />
+    <file src="assets/fx/post_edge.fx" type="client" />
+
+    <file src="assets/sounds/interaction.mp3" type="client" />
+
+    <file src="assets/images/vignette.png" type="client" />
+    <file src="assets/images/object_interaction.png" type="client" />
+    <file src="assets/images/ped_interaction.png" type="client" />
+    <file src="assets/images/player_interaction.png" type="client" />
+    <file src="assets/images/vehicle_interaction.png" type="client" />
+</meta>
